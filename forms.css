@@ -1,0 +1,41 @@
+form{
+    width:300px;
+    /* background-color:aquamarine; */
+    display:flex;
+    align-items: left;
+    flex-direction: column;
+
+}
+.form-container{
+    display:flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+
+}
+.form-container input{
+    width:100px;
+
+}
+label{
+    width:70px;
+    /* color:aqua; */
+    /* border: 1px solid black; */
+}
+button{
+    width:80px;
+    border:none;
+    font-size:20px;
+    font-weight:bold;
+    background-color: rgb(99, 93, 93);
+    color:white;
+    border-radius: 10px;
+}
+button:hover{
+    background-color:brown;
+}
+.name input{
+    margin-left: 15px;
+}
+.email input{
+    margin-left: 15px;
+}

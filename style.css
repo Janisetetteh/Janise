@@ -1,0 +1,47 @@
+h1{
+    color: aqua;
+}
+#mm{
+    color: blue;
+    font-size: 50px;
+}
+.tk{
+    height:100px;
+    width:100px;
+}
+table, th,td{
+    /* border:10px solid black; */
+}
+/* td{
+    border:10px solid black;
+}
+th{
+    border:10px solid black;
+} */
+#meme{
+    margin-top: 20px;
+    width: 100%;
+  
+    /* margin: 30px 10px 50px 0 ; */
+    /* border:15px solid blue; */
+    text-align:center;
+    
+        
+    }
+#meme th{
+    border-bottom:5px solid blue;
+   
+}
+#meme td{
+    border-bottom:1px solid blue;
+    height:10px;
+    width:50px;
+}
+/* #meme tr:nth-child(odd) {
+    background-color: #D6EEEE;
+  } */
+
+  tr{
+    background-color:blueviolet;
+  }
+

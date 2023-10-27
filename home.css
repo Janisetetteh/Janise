@@ -1,0 +1,23 @@
+#key{
+    background-color:black;
+    color:white;
+    margin-top: 20px;
+    border-right: 100px;
+}
+#key, .td{
+    border-bottom: 1px solid grey;
+}
+.top-4{
+    border-left:3px solid green;
+    
+}
+/* #red{
+    color: red;
+} */
+
+.young{
+    border-left: 3px solid blue;
+}
+.rude {
+    border-left: 3px solid rgb(51, 135, 163);
+}
